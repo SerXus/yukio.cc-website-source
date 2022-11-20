@@ -1,4 +1,4 @@
-# yukio.cc website source
+# yukio.cc website source || WONT GIVE ANY SUPPORT ANYMORE
  Thinked long time about that. People betrayed me and selling it so I thought why shouldn't i leak it?
  
  I gave the source to someone I've trusted. He basically started selling it on his sellix/shoppy whatever. So I thought, why should I give him that profit.
